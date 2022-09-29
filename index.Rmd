@@ -1,0 +1,28 @@
+--- 
+title: "Teaching Tech"
+author: "Shahin Ashkiani"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  The HTML output format for this example is bookdown::gitbook,
+  set in the _output.yml file.
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# About
+
+This is a book to gather what I read and I learn about how to teach programming, and tech in general. 
+
+The initial idea is taking notes based on the Greg Wilson's book: Teaching tech together 
+
+The next idea is based on the carpenteries instructor training program
+
+Also I will write down my own ideas, and the insights and inspirations. 
+
+Let's get started 

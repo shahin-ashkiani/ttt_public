@@ -1,0 +1,83 @@
+# Teaching Tech Together 
+
+## Introduction 
+
+* There is [this paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023) on evidence-based teaching programming and tech 
+
+* There is this [Carpentries Instrictor Training program](https://carpentries.github.io/instructor-training/) that I have to enroll and devaour 
+
+> "people do not absorb knowledge; instead, they (re-)construct it for themselves, and computers are a new and powerful tool for helping them do that. 
+
+* this is very close to my idea that I help you discover things, rather than just passing you information. 
+
+> many of those claims [about the association of higher salaries and the presence of knowing how to code] are built on shaky ground. Even if they were true, education shouldn't prepare people for the jobs of the future, it should give them power to decide what kinds of jobs there are, and to ensure that those jobs are worth doing. 
+
+* well, I believe education should teach people how to discover, how to think, how to formulate their thinking, and how to search. How to evaluate evidences. Also teaching them the ethical code of loving the truth more than their feelings, and their ideologies. To educate is to question, and to know how to answer those questions.  
+
+* so why learning programming? It is learning how to make tools, that will empower us to do the discovery/assessment/search more efficiently. Tools are power. 
+
+> to make technology works for us! 
+
+> the most important thing I've learned about teaching in the last thirty years is how important it is for everyone to treat everyone else with respect, both in and out of class. 
+
+> A code of conduct can't stop people from being offensive, any more than laws against theft swtop people from stealing. What it can do is make expectations and consequences clear. More imporatantly, having one tells people that there are rules, and that they can expect a friendly learning experience
+
+* similar to the theft example, there must be a mechanism beneath the offensive behaviour. In long or mid-term relations with students, knowing that mechanism is the most helpful step in affecting the behaviour. Law is good, but being afraid of the consequences is not the best motivation to following the laws. 
+
+* the friendly learning-experience is a very important thing.
+
+* it seems the academic papers can be downloaded from sci-hub website 
+
+> what do you most want to teach? 
+
+* the things that I want to learn. Right now, causal modelling, system dynamics, economics, etc. Also I am happy with teaching how to work with tools such as R. I like teaching in general 
+
+> Who do you most want to teach? 
+
+* I like to deal with a range of audience, from professionals to kids. The most important characteristic is **curiosity**. Those who follow their curiosity are there to learn for sake of learning, and not for marks, or degrees, etc. Also I would like to help and shape the minds of young less fortunate people. 
+
+
+> Why do you want to teach? 
+
+* It organizes my mind, and it is joyful. Why joyful? I see how good I am at it, I see people growing and learning, 
+
+I love the feeling of preparing a course, step by step, brick by brick. 
+
+
+> How will you know if you are teaching well? 
+
+* direct and indirect feedbacks and assessment. The direct ones are students coming to me and praising me, or they anonymously report it in their official feedbacks. Indirect approaches include official assessments like quizzes, projects, etc. I measure their prior-knowledge via one of these assessment tools. 
+
+
+> what do you most want to learn about teaching and learning? 
+
+* how to teach programming more efficiently. Keeping people engaged, motivated, and active. Especially about the feedbacks, and exercises. 
+
+I am eager to learn from evidence
+
+> What is one specific thing you believe is true about teacvhing and learning? 
+
+It helps deepen my understanding of the topic as a teacher. 
+
+
+
+
+
+## Ideas and notes 
+
+* A long list of the papers that the book uses are available, and I should go through them 
+
+* The current pdf is the older version of the book, I need to buy the newer version, as it is not available for free. 
+
+* **do not forget!** A minimum course to present, and them refine it **step by step**. 
+
+* The materials of the course are more or less available in my booklet, and I have to work on it 30minutes per day at least. 
+
+* I can start a business to teach Academics to code, and write reports and journal articles, replicable ones, properly and efficiently. There is a huge demand for it, especially among the seniors. 
+
+* idea: finding schools in poor areas and teach them voluntarily on economics, statistics, and programming 
+* reminder: do not forget your ultimate goal of writing on how to think. A book/course on how to think, and the tools that would be helpful. (system thinkin, system dynamics, statistics, etc.)
+
+* I am an educator, and I have to become better and better in my job as an educator. The techniques the history the insights the chronology of education the goal 
+
+* register to teach on that cooperative platform 
