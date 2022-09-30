@@ -1,0 +1,92 @@
+# Learning 
+
+* The chapter 2 of part I 
+
+> The first task in teaching is to figure out who your learners are and what they already know. 
+
+* This is exactly what I used to do with the background assessment quizzes 
+
+> Bennner identified five stages of cognitive development that most people go through in failry consistent way. (We say "most" and "farily" because human beings are highly variable; obsessing over how a few geniuses taught or learned isn't generally useful.) 
+> we can simplify Benner's progression to three stages: 
+#. Novice: dont have a mental model, dont know what they dont know, use analogy and other mental models to make sense of the phenomenon 
+#. Competent practitioner: can do normal tasks, in normal circumstances, with normal efforts.  
+#. Experts: knowing the nuances, compelexitites, special cases, etc. They know what they don't know, and how to learn it. 
+
+* I dont like this chapter. I believe I have a good knowledge and intuition to a level better, and more useful for me, than these explanations. 
+
+* Ok, the examples of the models of atoms, the models that are wrong by "useful", I don't believe that is the case. A useful model should be accurate, if not precise. If a model is wrong, in the meaning of "inaccurate" then it cannot be useful in longer term, eventhough it might seem helpful at first to learn about the phenomenon. 
+
+> one sing that someone is a novice is that the things they say are not even wrong ... it is very important not to make novices uncomfortable for doing this (borrowing from other mental models): until they have a better mental model, reasoning by (inappropriate) borrowing from their knowledge of other subjects is the best they can do. 
+
+* sometimes but you need to make them uncomfortable if the novice-ness is entrenched with their inflated ego. 
+
+> presenting novices with a pile of facts is counter-productive...your goal when teaching novices should therefore be to help them construct a mental model so that they have somewhere to put facts
+
+* to me this is the role of the **why** part. If students have no clue about the rationale of a concept, then where the hell they should keep all the details about an algorithm for a long time beyond an exam and a degree?! 
+
+> novices' misconceptions fall into three categories: 
+#. factual errors
+#. broken models 
+#. fundamental beliefs (these are also broken models, but often deeply connected to the learner's social identity, so they resist evidence and reason)
+
+> teaching is most effective when teachers identify and clear up learners' misconceptions during the lesson. This is called **formative assessment**; the word **formative** means it is used to form or shape the teaching. 
+
+> learners don't pass or fail **formative assessments**l instead, it tells the teacher and the learner how they are both doing and what they should focus on next. 
+
+* my formative assessments helped my students a lot. I have to follow the practice here as well 
+
+* for teaching programming, the formative assessments can be both coding and and multiple-choice questions. The latter works better for assessments of the concepts. 
+
+> the counter-point to formative assessment is **summative assessment**, which you do at the end of the lesson to determine if your teaching was successful, i.e., whether the learner has understood what you have taught and is ready to move on. 
+
+* to me the main load of the formative assessments is on the side of learning, and the main load of the summative assessment on the side of evaluation of learning. The former is for finding the gap and ammending them before the end of the module, the latter is about finding the gaps. For me as a teacher, finding the gaps helps to address them by changing the materials, the weights, or the approaches to the concepts. 
+
+> in order to be useful during teaching, a formative assessment has to be quick to administer (so that it doesn't break the flow of the lesson) and give a clear result (so that it can be used with groups as well as individuals)
+
+
+* He says that MCQ is helpful if the choices are designed to be revealing. To me they are helpful for the basic concepts, and even more complicated, but operationally-limited ones. The question and its choices must reveal the gaps, to the learner and to the teacher. 
+
+* he suggests that every 10-15 minutes of learning, a 1-2 minutes of FA. And I agree, but after each concept, rather than simple 10-15 minutes. The concepts should be broken down into chunks of 10-15 minutes tho. 
+
+* to design revealing choices in MCQ, look at the problem from the POV of the learners, and what they might do wrong. 
+
+> if you are teaching online, you should check in much more often to keep learners engaged. 
+
+> no matter how hard you work or what teaching practices you use, you won't always be able to give everyone what they need; it is your responsibility as a teacher to make the call
+
+* my responsibility as a teacher is showing the genuine feeling that I care about every single student, but they have to take the first step always. The shouldn't feel that I am begging them to learn. It is a serious matter of serious people 
+
+* I guess I have enough knowledge to start designing the course actually. The materials, and the techniques, and the experience are here. After the first version, I start the refining process. Plan like a project manager (also some parts like the FATs can be designed before every session. No perfection, just do the job for now)
+
+* revealing tool = diagnostic tool: this is what FATs should be 
+
+* **I have no idea** This can be one of the choices! Unless the students are afraid of revealing their lack of knowledge. 
+
+> A lesson's formative assessments should prepare learners for its summative assessment: no one should ever encounter a question on an exam that the teaching did not prepare them for. This doesn't mean you should never put new kinds of problems on an exam, but if you do, you should have given learners practices with (and feedbacks on) tackling novel problems beforehand. 
+
+* well, I believe the SATs and even FATs have to separate students, to those who have the basic knowledge, those who are competent, and those that have advanced knowledge to the level that can handle novel cases. These can extrapolate their knowledge from fundamentals and details to new situations and cases. To me 50% must be basics, 25-30% must be details, and then 25-20% must be advanced, needing extrapolation and deep understanding of the concepts. 
+
+
+
+## Ideas
+
+* a test to give people an assessment about their knowledge of the topics. Whether this level of the R is suitable for them or not. 
+
+* I can ask the previous instructors or TAs about the parts that the students struggle with. Interview. Also I can search the net about it. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
